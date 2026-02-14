@@ -22,7 +22,7 @@ Build a SIEM environment using Wazuh to detect and analyze simulated attack acti
 - ## Example Alert: Failed Login (Event ID 4625)
 
 ### Alert Summary
-This screenshot shows the Wazuh dashboard detecting multiple failed login attempts:
+This screenshot shows the Wazuh dashboard detecting one of multiple failed login attempts:
 
 ![Alert Summary](Alert%20Summary.png)
 
