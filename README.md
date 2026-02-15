@@ -11,8 +11,8 @@ Build a SIEM environment using Wazuh to detect and analyze simulated attack acti
 
 ## Attack Scenarios Tested
 - Brute force login attempts
-- Suspicious PowerShell execution
-- Privilege escalation simulation
+- Suspicious PowerShell execution (tba)
+- Privilege escalation simulation (tba)
 
 ## Detection & Analysis
 - Alert review in Wazuh dashboard
