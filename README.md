@@ -9,16 +9,15 @@ Build a SIEM environment using Wazuh to detect and analyze simulated attack acti
 - Kali Linux Attacker
 - Sysmon for enhanced logging
 
-## Attack Scenarios Tested
+## Attack Scenario Tested
 - Brute force login attempts
-- Suspicious PowerShell execution (tba)
-- Privilege escalation simulation (tba)
 
 ## Detection & Analysis
 - Alert review in Wazuh dashboard
 - Log correlation
 - MITRE ATT&CK mapping
 - Investigation documentation
+  
 - ## Example Alert: Failed Login (Event ID 4625)
 
 ### Alert Summary
